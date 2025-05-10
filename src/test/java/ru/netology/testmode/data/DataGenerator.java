@@ -33,7 +33,7 @@ public class DataGenerator {
                 .when().log().all()
                 .post("/api/system/users")
                 .then().log().all()
-                .statusCode(200);
+                .statusCode(404);
 
         // TODO: отправить запрос на указанный в требованиях path, передав в body запроса объект user
         //  и не забудьте передать подготовленную спецификацию requestSpec.
