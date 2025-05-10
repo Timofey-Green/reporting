@@ -4,8 +4,9 @@
 Фото
 
 
+![2025-05-10_12-04-21](https://github.com/user-attachments/assets/51aa4e93-3eea-49cb-876c-e61082ac814e)
 
-![2025-05-10_12-04-21.png](../../%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9/Downloads/2025-05-10_12-04-21.png)
+
 
 
 
